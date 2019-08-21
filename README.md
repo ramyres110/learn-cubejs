@@ -1,6 +1,9 @@
 # Learn CubeJS
 Repositório de aprendizagem.
 
+View
+![alt text](./Screenshot.png "Exemplo Dashboard")
+
 Playground and Editor, após executar o servidor abra no browser:
 
 `http://localhost:4000/`
