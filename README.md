@@ -1,4 +1,4 @@
-# Try CubeJS
+# Learn CubeJS
 Repositório de aprendizagem.
 
 Playground and Editor, após executar o servidor abra no browser:
