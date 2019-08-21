@@ -1,0 +1,17 @@
+{
+  "name": "trycubejs",
+  "version": "1.0.0",
+  "description": "## Ref - https://dev.to/cubejs/cube-js-the-open-source-dashboard-framework-ultimate-guide-53be",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-backend": "cubejs create dashboard-backend -d mysql",
+    "create-frontend": "create-react-app dashboard-frontend"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "create-react-app": "^3.1.1",
+    "cubejs-cli": "^0.10.15"
+  }
+}
